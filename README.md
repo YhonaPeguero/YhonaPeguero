@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yhonatan Peguero</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic.</h3>
+<h3 align="center">Ing.Software,a passionate frontend developer from Dominican Republic.</h3>
 
 - 🔭 I’m currently working on **my personal brand**
 
