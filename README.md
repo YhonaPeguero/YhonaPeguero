@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal brand**
 
-- 🌱 I’m currently learning **HTML5-CSS3-Javascript-React**
+- 🌱 I mainly handle **HTML5-CSS3-Javascript-React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
