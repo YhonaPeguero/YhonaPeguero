@@ -5,7 +5,7 @@
 
 - 🌱 Todos somos un intento de algo:) yo intento de **FullStack Javascript Developer**
 
-- 🤝 Actualmente participo en la creación de mini proyectos en la comunidad de [OpenBootcamp](https://open-bootcamp.com/)
+- 🤝 Actualmente participo como Team Leader en la creación de mini proyectos en la comunidad de [OpenBootcamp](https://open-bootcamp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
