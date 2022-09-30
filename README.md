@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy Yhonatan Peguero</h1>
 <h3 align="center">Apasionado Ingeniero de Software y desarrollador Web Front-End.</h3>
 
-- 🔭 En mejora constante de mi perfil profesional y [mi marca personal](www.linkedin.com/in/yhonatan-peguero/)
+- 🔭 En mejora constante de mi perfil profesional y [mi marca personal](https://www.linkedin.com/in/yhonatan-peguero/)
 
 - 🌱 Todos somos un intento de algo:) yo intento de **FullStack Javascript Developer**
 
