@@ -3,7 +3,7 @@
 
 - 🔭 En mejora constante de mi perfil profesional y [mi marca personal](https://www.linkedin.com/in/yhonatan-peguero/)
 
-- 🌱 Todos somos un intento de algo:) yo intento de **FullStack Javascript Developer**
+- 🌱 Todos somos un intento de algo:) yo intento de **FullStack Javascript**
 
 - 🤝 Actualmente participo como Team Leader en la creación de mini proyectos en la comunidad de [OpenBootcamp](https://open-bootcamp.com/)
 
