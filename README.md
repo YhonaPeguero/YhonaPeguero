@@ -7,6 +7,8 @@
 
 - 🤝 Actualmente participo como Team Leader en la creación de mini proyectos en la comunidad de [OpenBootcamp](https://open-bootcamp.com/)
 
+* Puedes comunicarte conmigo por distintas vias pero te dejo mi correo por aca: yhonatanpm01@gmail.com
+
 ![productive](https://user-images.githubusercontent.com/76560887/193899905-b3903047-7971-4e6d-afab-523ed36ee760.gif)
 
 <h3 align="left">Contactame:</h3>
