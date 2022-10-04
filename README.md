@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy Yhonatan Peguero 😎</h1>
 <h3 align="center">Ingeniero de Software y Desarrollador Web Front-End</h3>
 
-Ingeniero de software y desarrollador web (También soy un intento de fullStack 😂) con excelente conocimiento de las tecnologías bases como html, css, javascript y metodologías ágiles para el desarrollo de software. 
+También soy un intento de fullStack 😂 con excelente conocimiento de las tecnologías bases como html, css, javascript y metodologías ágiles para el desarrollo de software. 
 
 Siempre estoy dispuesto a experimentar con nuevos conceptos y crear productos de alta calidad, dando un valor agregado al usuario. Me gusta tener presente que: Cada proyecto está divorciado de la influencia del costo y armonizado con sus expectativas.
 
