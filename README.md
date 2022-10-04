@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Soy Yhonatan Peguero 😎</h1>
-<h3 align="center">Apasionado Ingeniero de Software y desarrollador Web Front-End.</h3>
+<h3 align="center">Ingeniero de Software y desarrollador Web Front-End</h3>
 
 - 🔭 En mejora constante de mi perfil profesional y [mi marca personal](https://www.linkedin.com/in/yhonatan-peguero/)
 
