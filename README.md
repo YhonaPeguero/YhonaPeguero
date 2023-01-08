@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, Soy Yhonatan Peguero 😎</h1>
 <h3 align="center">Ingeniero de Software y Desarrollador Web Front-End</h3>
 
-También soy un intento de fullStack 😂 con excelente conocimiento de las tecnologías bases como html, css, javascript y metodologías ágiles para el desarrollo de software. 
+Mi pasión es encontrar soluciones eficientes a través del análisis de las nuevas herramientas tecnológicas que surgen. Me encanta experimentar con ideas innovadoras y crear productos de calidad que aporten valor a los usuarios. 
 
-Siempre estoy dispuesto a experimentar con nuevos conceptos y crear productos de alta calidad, dando un valor agregado al usuario. Me gusta tener presente que: Cada proyecto está divorciado de la influencia del costo y armonizado con sus expectativas.
+Para mí, cada proyecto es una oportunidad para superar las expectativas de mis clientes y socios, sin importar el costo. Me esfuerzo por mantener un enfoque práctico y aterrizar las ideas en soluciones sólidas y viables.
 
 - 🔭 En mejora constante de mi perfil profesional y [mi marca personal](https://www.linkedin.com/in/yhonatan-peguero/)
-- 🤝 Actualmente participo como Team Leader en la creación de mini proyectos en la comunidad de [OpenBootcamp](https://open-bootcamp.com/)
+- 🤝 Participante en comunidades Tech y con experiencia de Team Leader creando mini proyectos en: [OpenBootcamp](https://open-bootcamp.com/)
 - 🌱 Practicando y testeando distintos Frameworks web como React y Angular 
 
 ![productive](https://user-images.githubusercontent.com/76560887/193899905-b3903047-7971-4e6d-afab-523ed36ee760.gif)
