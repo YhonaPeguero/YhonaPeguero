@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Soy Yhonatan Peguero 😎</h1>
-<h3 align="center">Ingeniero de Software y Desarrollador Web Front-End ( Intento de FullStack ) </h3>
+<h1 align="center">Hi 👋, soy Ingeniero de Software y Desarrollador Web Front-End ( Intento de FullStack )😎</h1>
 
 Mi pasión es encontrar soluciones eficientes a través del análisis de las nuevas herramientas tecnológicas que surgen. Me encanta experimentar con ideas innovadoras y crear productos de calidad que aporten valor a los usuarios. 
 
