@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋,soy Ingeniero de Software y Desarrollador Web Front-End (Intento de FullStack)😎</h1>
 
-Mi pasión es encontrar soluciones eficientes a través del análisis de las nuevas herramientas tecnológicas que surgen. Me encanta experimentar con ideas innovadoras y crear productos de calidad que aporten valor a los usuarios. 
+Mi pasión es encontrar soluciones eficientes a través del análisis de las nuevas herramientas tecnológicas que surgen. Me encanta experimentar con ideas innovadoras y crear productos de calidad que aporten valor a los usuarios.
 
-Para mí, cada proyecto es una oportunidad para superar las expectativas de mis clientes y socios, sin importar el costo. Me esfuerzo por mantener un enfoque práctico y aterrizar las ideas en soluciones sólidas y viables.
+Me esfuerzo por mantener un enfoque práctico y aterrizar las ideas en soluciones sólidas y viables.
 
 - 🔭 En mejora constante de mi perfil profesional y [mi marca personal](https://www.linkedin.com/in/yhonatan-peguero/)
 - 🤝 Participante en comunidades Tech y con experiencia de Team Leader creando mini proyectos en: [OpenBootcamp](https://open-bootcamp.com/)
