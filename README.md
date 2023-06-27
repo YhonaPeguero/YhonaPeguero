@@ -1,12 +1,10 @@
-<h1 align="center">Hi👋 A fullstack developer from Domincan Republic😎</h1>
+<h1 align="center">Hi👋A fullstack developer😎</h1>
 
 I like to find efficient solutions through the analysis of new technological tools that emerge. I love experimenting with innovative ideas and creating quality products that bring value to users.
 
 I strive to maintain a practical approach and develop ideas into viable solutions.
 
-- 🔭 In constant improvement of my professional profile and [my personal brand](https://www.linkedin.com/in/yhonatan-peguero/)
-- 🤝 Participant in Tech communities and with experience as Team Leader creating mini projects in: [OpenBootcamp](https://open-bootcamp.com/)
-- 🌱 Practicing and testing different web frameworks such as React and Angular 
+📫 How to reach me: yhonatanpm01@gmail.com
 
 ![productive](https://user-images.githubusercontent.com/76560887/193899905-b3903047-7971-4e6d-afab-523ed36ee760.gif)
 
