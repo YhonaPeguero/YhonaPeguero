@@ -20,7 +20,7 @@ I strive to maintain a practical approach and develop ideas into viable solution
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yhonatan-peguero/"><img src="https://img.shields.io/badge/-Yhonatan%20Peguero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://x.com/AnoFeed"><img src="https://img.shields.io/badge/-@AnoFeed-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/thisnotmeeme"><img src="https://img.shields.io/badge/-@AnoFeed-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:yhonatanpm01@gmail.com"><img src="https://img.shields.io/badge/-yhonatanpm01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
